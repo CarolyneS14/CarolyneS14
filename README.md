@@ -1,11 +1,13 @@
-## 💜 Olá, meu nome é Carolyne Oliveira! 👋
+## 🤎 Olá, meu nome é Carolyne Oliveira! 👋
 
-Mas pode me chamar de Carol! 👩🏽‍💼 uma mulher se aventurando pelo mundo da tecnologia. 
-Sou apaixonada por viajar para conhecer lugares diferentes e pela imersão que a leitura nos propõe a fazer. Além disso, também sou movida por ações voluntárias e tudo que tenha relação com impacto social na vida de outras pessoas.
+Mas pode me chamar de Carol! 👩🏽‍💼 Sou uma mulher negra que se aventura pelo mundo da tecnologia. 
+Além disso, sou movida por ações voluntárias e tudo o que tem relação com impacto social na vida de outras pessoas.
 
 - :wink: Pronome Ela/Dela
-- :palm_tree: De São Paulo/SP
-- :bar_chart: Estudande de Análises de Dados pela @laboratoria
+- 🌎 De São Paulo/SP
+- ⚖️ Formada em Direito
+- 👩🏽‍💻 Estudande de Análises de Dados pela @laboratoria
+- 👩‍💼 Em busca da minha primeira oportunidade na área de dados!
 
 
 ## ⭐ GitHub Stats
@@ -29,7 +31,7 @@ Sou apaixonada por viajar para conhecer lugares diferentes e pela imersão que a
 </a>
 
 
-## 🌎 Onde me encontrar 👩🏽‍💻
+## 🕵️‍♀️ Onde me encontrar 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dados.carolyne@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)
