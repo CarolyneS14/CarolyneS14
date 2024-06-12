@@ -6,7 +6,7 @@ Além disso, sou movida por ações voluntárias e tudo o que tem relação com 
 - :wink: Pronome Ela/Dela
 - 🌎 De São Paulo/SP
 - ⚖️ Formada em Direito
-- 👩🏽‍💻 Estudande de Análises de Dados pela @laboratoria
+- 👩🏽‍💻 Estudande de Análises de Dados
 - 👩‍💼 Em busca da minha primeira oportunidade na área de dados!
 
 
